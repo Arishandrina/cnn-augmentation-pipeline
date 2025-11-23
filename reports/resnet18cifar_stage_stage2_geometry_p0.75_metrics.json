@@ -1,0 +1,15 @@
+{
+  "loss": 0.30620499302363496,
+  "accuracy": 0.9077673632452367,
+  "precision_macro": 0.9014936466794156,
+  "recall_macro": 0.9064985667668447,
+  "f1_macro": 0.9014058075721435,
+  "precision_weighted": 0.9131644220091821,
+  "recall_weighted": 0.9077673632452367,
+  "f1_weighted": 0.9083994898127269,
+  "model_name": "resnet18cifar",
+  "params_m": 11.174,
+  "sec_per_epoch": 1682.737,
+  "img_per_s": 39.2,
+  "epochs": 5
+}

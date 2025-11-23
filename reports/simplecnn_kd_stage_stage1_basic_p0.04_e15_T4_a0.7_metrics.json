@@ -1,0 +1,14 @@
+{
+  "loss": 0.22704447762835736,
+  "accuracy": 0.9349262446220037,
+  "precision_macro": 0.9340241605201831,
+  "recall_macro": 0.928856569277541,
+  "f1_macro": 0.9307068261091567,
+  "precision_weighted": 0.9359645043284703,
+  "recall_weighted": 0.9349262446220037,
+  "f1_weighted": 0.9348728643985131,
+  "model_name": "simplecnn_kd",
+  "epochs": 15,
+  "params_m": 0.141,
+  "infer_img_per_s": 5366.0
+}
